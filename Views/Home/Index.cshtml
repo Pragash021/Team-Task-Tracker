@@ -1,0 +1,73 @@
+@{
+    ViewData["Title"] = "Task Tracker";
+}
+
+<header class="app-header">
+    <h1>Team Task Tracker</h1>
+    <p class="subtitle">Track what the team is working on and what's already done.</p>
+</header>
+
+<main class="app-main">
+    <section class="card" aria-labelledby="new-task-heading">
+        <h2 id="new-task-heading">New Task</h2>
+        <form id="task-form" novalidate>
+            <div class="form-row">
+                <label for="title">Title <span class="required">*</span></label>
+                <input type="text" id="title" name="title" maxlength="200" placeholder="e.g. Prepare weekly report" required />
+                <p class="field-error" id="title-error" role="alert"></p>
+            </div>
+
+            <div class="form-row">
+                <label for="description">Description</label>
+                <textarea id="description" name="description" maxlength="1000" placeholder="Optional details"></textarea>
+                <p class="field-error" id="description-error" role="alert"></p>
+            </div>
+
+            <div class="form-row">
+                <label for="priority">Priority <span class="required">*</span></label>
+                <select id="priority" name="priority" required>
+                    <option value="Low">Low</option>
+                    <option value="Medium" selected>Medium</option>
+                    <option value="High">High</option>
+                </select>
+            </div>
+
+            <button type="submit" id="submit-btn">Add Task</button>
+            <p class="form-error" id="form-error" role="alert"></p>
+            <p class="form-success" id="form-success" role="status"></p>
+        </form>
+    </section>
+
+    <section class="card">
+        <div class="list-header">
+            <h2>Tasks</h2>
+            <div class="filters" role="group" aria-label="Filter tasks by status">
+                <button type="button" class="filter-btn active" data-status="">All</button>
+                <button type="button" class="filter-btn" data-status="Pending">Pending</button>
+                <button type="button" class="filter-btn" data-status="Completed">Completed</button>
+            </div>
+        </div>
+
+        <div id="loading-state" class="state-message" hidden>Loading tasks…</div>
+        <div id="error-state" class="state-message state-error" hidden>
+            <span id="error-text">Something went wrong.</span>
+            <button type="button" id="retry-btn">Retry</button>
+        </div>
+        <div id="empty-state" class="state-message" hidden>No tasks yet. Add one above to get started.</div>
+
+        <ul id="task-list" class="task-list" hidden></ul>
+    </section>
+</main>
+
+<dialog id="confirm-dialog" class="confirm-dialog">
+    <form method="dialog" class="confirm-dialog-form">
+        <h3>Mark task as completed?</h3>
+        <p id="confirm-dialog-text">Are you sure you want to mark "<span id="confirm-task-title"></span>" as completed?</p>
+        <div class="confirm-dialog-actions">
+            <button type="button" id="confirm-cancel-btn" class="btn-secondary">Cancel</button>
+            <button type="button" id="confirm-ok-btn" class="btn-confirm">Yes, Mark Completed</button>
+        </div>
+    </form>
+</dialog>
+
+<div id="toast-container" class="toast-container" aria-live="polite" aria-atomic="true"></div>
