@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\",
+  "WorkspaceRootPath": "D:\\OTHERS FILES\\Team Task Tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\controllers\\api\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:controllers\\api\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|d:\\others files\\team task tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|d:\\others files\\team task tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\models\\taskstatustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|d:\\others files\\team task tracker\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|d:\\others files\\team task tracker\\models\\taskstatustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:models\\taskstatustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|d:\\others files\\team task tracker\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|d:\\others files\\team task tracker\\controllers\\api\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:controllers\\api\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|d:\\others files\\team task tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|d:\\others files\\team task tracker\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|d:\\others files\\team task tracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Program.cs",
+              "DocumentMoniker": "D:\\OTHERS FILES\\Team Task Tracker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Program.cs",
+              "ToolTip": "D:\\OTHERS FILES\\Team Task Tracker\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,11 +64,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Models\\TaskItem.cs",
+              "DocumentMoniker": "D:\\OTHERS FILES\\Team Task Tracker\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\OTHERS FILES\\Team Task Tracker\\Models\\TaskItem.cs",
               "RelativeToolTip": "Models\\TaskItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,11 +78,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "TaskStatusType.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Models\\TaskStatusType.cs",
+              "DocumentMoniker": "D:\\OTHERS FILES\\Team Task Tracker\\Models\\TaskStatusType.cs",
               "RelativeDocumentMoniker": "Models\\TaskStatusType.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Models\\TaskStatusType.cs",
+              "ToolTip": "D:\\OTHERS FILES\\Team Task Tracker\\Models\\TaskStatusType.cs",
               "RelativeToolTip": "Models\\TaskStatusType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,11 +92,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\OTHERS FILES\\Team Task Tracker\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\OTHERS FILES\\Team Task Tracker\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,70 +106,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "app.js",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\wwwroot\\js\\app.js",
+              "DocumentMoniker": "D:\\OTHERS FILES\\Team Task Tracker\\wwwroot\\js\\app.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\app.js",
-              "ToolTip": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\wwwroot\\js\\app.js",
+              "ToolTip": "D:\\OTHERS FILES\\Team Task Tracker\\wwwroot\\js\\app.js",
               "RelativeToolTip": "wwwroot\\js\\app.js",
               "ViewState": "AgIAAAsBAAAAAAAAAAAkwDMBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-08-15T06:52:49.064Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\OTHERS FILES\\Team Task Tracker\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\OTHERS FILES\\Team Task Tracker\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAACsAAAAAAAAAAAAiwEgAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-15T06:59:34.361Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\OTHERS FILES\\Team Task Tracker\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\OTHERS FILES\\Team Task Tracker\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAEgBAAAAAAAAAAAuwIEBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-08-15T07:00:34.783Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TasksController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Controllers\\Api\\TasksController.cs",
-              "RelativeDocumentMoniker": "Controllers\\Api\\TasksController.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Controllers\\Api\\TasksController.cs",
-              "RelativeToolTip": "Controllers\\Api\\TasksController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAtwGgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-15T06:57:26.161Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OTHERS FILES\\Team Task Tracker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\OTHERS FILES\\Team Task Tracker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-15T06:53:31.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-15T06:53:31.403Z",
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\OTHERS FILES\\Team Task Tracker\\Controllers\\Api\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Api\\TasksController.cs",
+              "ToolTip": "D:\\OTHERS FILES\\Team Task Tracker\\Controllers\\Api\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\Api\\TasksController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAtwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T06:57:26.161Z",
               "EditorCaption": ""
             }
           ]

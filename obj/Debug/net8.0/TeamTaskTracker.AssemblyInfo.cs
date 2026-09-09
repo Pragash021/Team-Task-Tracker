@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeamTaskTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02d9f479195967cf3445354f4a442d97776ccbe2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeamTaskTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeamTaskTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

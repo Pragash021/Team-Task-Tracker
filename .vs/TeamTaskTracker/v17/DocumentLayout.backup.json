@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\controllers\\api\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:controllers\\api\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\controllers\\api\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|solutionrelative:controllers\\api\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99E16A6C-3F77-45ED-A44D-4AB75E8D310E}|TeamTaskTracker.csproj|c:\\users\\user\\downloads\\teamtasktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\wwwroot\\js\\app.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\app.js",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -134,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -148,13 +148,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Controllers\\Api\\TasksController.cs",
               "RelativeDocumentMoniker": "Controllers\\Api\\TasksController.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\Controllers\\Api\\TasksController.cs",
               "RelativeToolTip": "Controllers\\Api\\TasksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAtwGgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-15T06:57:26.161Z",
               "EditorCaption": ""

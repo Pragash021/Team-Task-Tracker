@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Downloads\\TeamTaskTracker\\TeamTaskTracker.csproj": {}
+    "D:\\OTHERS FILES\\Team Task Tracker\\TeamTaskTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Downloads\\TeamTaskTracker\\TeamTaskTracker.csproj": {
+    "D:\\OTHERS FILES\\Team Task Tracker\\TeamTaskTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\TeamTaskTracker.csproj",
+        "projectUniqueName": "D:\\OTHERS FILES\\Team Task Tracker\\TeamTaskTracker.csproj",
         "projectName": "TeamTaskTracker",
-        "projectPath": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\TeamTaskTracker.csproj",
+        "projectPath": "D:\\OTHERS FILES\\Team Task Tracker\\TeamTaskTracker.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Downloads\\TeamTaskTracker\\obj\\",
+        "outputPath": "D:\\OTHERS FILES\\Team Task Tracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
